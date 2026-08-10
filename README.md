@@ -11,13 +11,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/dakshverma-19/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/dakshverma-19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
+| [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
