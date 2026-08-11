@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3925-concatenate-array-with-reverse](https://github.com/dakshverma-19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/dakshverma-19/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Greedy
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
