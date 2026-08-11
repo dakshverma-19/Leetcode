@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dakshverma-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/dakshverma-19/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dakshverma-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dakshverma-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
