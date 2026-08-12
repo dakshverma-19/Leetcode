@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dakshverma-19/Leetcode/tree/master/0009-palindrome-number) |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshverma-19/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -61,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
