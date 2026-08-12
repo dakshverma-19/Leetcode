@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
