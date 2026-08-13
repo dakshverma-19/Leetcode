@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dakshverma-19/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dakshverma-19/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dakshverma-19/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -144,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
