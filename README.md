@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dakshverma-19/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
