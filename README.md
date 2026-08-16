@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dakshverma-19/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dakshverma-19/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
