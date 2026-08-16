@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dakshverma-19/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dakshverma-19/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/dakshverma-19/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dakshverma-19/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
