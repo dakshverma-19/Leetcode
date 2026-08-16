@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dakshverma-19/Leetcode/tree/master/0041-first-missing-positive) |
+| [0162-find-peak-element](https://github.com/dakshverma-19/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dakshverma-19/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/dakshverma-19/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
