@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/dakshverma-19/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dakshverma-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
