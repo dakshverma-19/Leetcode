@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/dakshverma-19/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dakshverma-19/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshverma-19/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dakshverma-19/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/dakshverma-19/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/dakshverma-19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
