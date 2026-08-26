@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dakshverma-19/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/dakshverma-19/Leetcode/tree/master/2951-find-the-peaks) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
