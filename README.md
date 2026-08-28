@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/dakshverma-19/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dakshverma-19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshverma-19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
