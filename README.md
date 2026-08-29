@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/dakshverma-19/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dakshverma-19/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dakshverma-19/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/dakshverma-19/Leetcode/tree/master/0575-distribute-candies) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dakshverma-19/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dakshverma-19/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dakshverma-19/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshverma-19/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dakshverma-19/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/dakshverma-19/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/dakshverma-19/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dakshverma-19/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dakshverma-19/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dakshverma-19/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -290,4 +294,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/dakshverma-19/Leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
