@@ -6,7 +6,15 @@ public:
             nums1.erase(nums1.begin()+t);
             }
         }
-        
+        //for(int i=nums1.size()-1 ; i>=0 ; i--){
+        //    if(nums1[i]==0){
+        //       nums1.erase(nums1.begin()+i);
+        //    }
+        //    if(nums1[i]>0 || nums1[i]<0){
+       //         break;
+       //     }
+
+       // }
         for(int j=0 ;j<nums2.size() ; j++){
             nums1.push_back(nums2[j]);
         }
