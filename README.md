@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/dakshverma-19/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/dakshverma-19/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/dakshverma-19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/dakshverma-19/Leetcode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dakshverma-19/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3978-unique-middle-element](https://github.com/dakshverma-19/Leetcode/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
