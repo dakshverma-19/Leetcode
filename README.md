@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/dakshverma-19/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dakshverma-19/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dakshverma-19/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dakshverma-19/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dakshverma-19/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/dakshverma-19/Leetcode/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dakshverma-19/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dakshverma-19/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/dakshverma-19/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/dakshverma-19/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dakshverma-19/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshverma-19/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dakshverma-19/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dakshverma-19/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
