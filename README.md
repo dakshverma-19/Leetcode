@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshverma-19/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3861-minimum-capacity-box](https://github.com/dakshverma-19/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dakshverma-19/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/dakshverma-19/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/dakshverma-19/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
