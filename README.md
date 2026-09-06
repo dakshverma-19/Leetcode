@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/dakshverma-19/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshverma-19/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dakshverma-19/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/dakshverma-19/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/dakshverma-19/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/dakshverma-19/Leetcode/tree/master/2951-find-the-peaks) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Quicksort
 |  |
 | ------- |
