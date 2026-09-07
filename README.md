@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/dakshverma-19/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dakshverma-19/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshverma-19/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dakshverma-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dakshverma-19/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dakshverma-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3945-digit-frequency-score](https://github.com/dakshverma-19/Leetcode/tree/master/3945-digit-frequency-score) |
