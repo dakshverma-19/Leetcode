@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/dakshverma-19/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dakshverma-19/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/dakshverma-19/Leetcode/tree/master/3151-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dakshverma-19/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dakshverma-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
