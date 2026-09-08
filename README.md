@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/dakshverma-19/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/dakshverma-19/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/dakshverma-19/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
