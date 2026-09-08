@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dakshverma-19/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/dakshverma-19/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
 | [2032-two-out-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/2032-two-out-of-three) |
@@ -386,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/dakshverma-19/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
