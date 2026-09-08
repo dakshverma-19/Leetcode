@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dakshverma-19/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dakshverma-19/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dakshverma-19/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/dakshverma-19/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/dakshverma-19/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/dakshverma-19/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dakshverma-19/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/dakshverma-19/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dakshverma-19/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
