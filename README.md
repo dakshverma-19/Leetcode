@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dakshverma-19/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dakshverma-19/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
