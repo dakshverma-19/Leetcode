@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/dakshverma-19/Leetcode/tree/master/3099-harshad-number) |
 | [3360-stone-removal-game](https://github.com/dakshverma-19/Leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/dakshverma-19/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
