@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dakshverma-19/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/dakshverma-19/Leetcode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/dakshverma-19/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/dakshverma-19/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/dakshverma-19/Leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/dakshverma-19/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/dakshverma-19/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
