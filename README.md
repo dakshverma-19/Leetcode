@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dakshverma-19/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dakshverma-19/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/dakshverma-19/Leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dakshverma-19/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/dakshverma-19/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/dakshverma-19/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
