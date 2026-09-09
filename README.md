@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/dakshverma-19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/dakshverma-19/Leetcode/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/dakshverma-19/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/dakshverma-19/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/dakshverma-19/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/dakshverma-19/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/dakshverma-19/Leetcode/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
