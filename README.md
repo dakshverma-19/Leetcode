@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-alternating-digit-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/dakshverma-19/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/dakshverma-19/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
