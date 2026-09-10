@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/dakshverma-19/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/dakshverma-19/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1925-count-square-sum-triples](https://github.com/dakshverma-19/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/dakshverma-19/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dakshverma-19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/dakshverma-19/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/dakshverma-19/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/dakshverma-19/Leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/dakshverma-19/Leetcode/tree/master/2427-number-of-common-factors) |
