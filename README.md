@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dakshverma-19/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dakshverma-19/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshverma-19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/dakshverma-19/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dakshverma-19/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
 | [1014-best-sightseeing-pair](https://github.com/dakshverma-19/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
+| [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
 | [3477-fruits-into-baskets-ii](https://github.com/dakshverma-19/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/dakshverma-19/Leetcode/tree/master/1952-three-divisors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
