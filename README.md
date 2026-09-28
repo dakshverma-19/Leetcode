@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/dakshverma-19/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/dakshverma-19/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dakshverma-19/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dakshverma-19/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dakshverma-19/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dakshverma-19/Leetcode/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/dakshverma-19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dakshverma-19/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dakshverma-19/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/dakshverma-19/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dakshverma-19/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/dakshverma-19/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dakshverma-19/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dakshverma-19/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dakshverma-19/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dakshverma-19/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
