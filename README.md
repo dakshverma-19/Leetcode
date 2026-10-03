@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/dakshverma-19/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dakshverma-19/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/dakshverma-19/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/dakshverma-19/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dakshverma-19/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/dakshverma-19/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/dakshverma-19/Leetcode/tree/master/3151-special-array-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/dakshverma-19/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dakshverma-19/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/dakshverma-19/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dakshverma-19/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/dakshverma-19/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dakshverma-19/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/dakshverma-19/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshverma-19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dakshverma-19/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/dakshverma-19/Leetcode/tree/master/3842-toggle-light-bulbs) |
