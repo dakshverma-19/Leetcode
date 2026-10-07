@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dakshverma-19/Leetcode/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dakshverma-19/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/dakshverma-19/Leetcode/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/dakshverma-19/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dakshverma-19/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dakshverma-19/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dakshverma-19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/dakshverma-19/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshverma-19/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/dakshverma-19/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dakshverma-19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshverma-19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0397-integer-replacement](https://github.com/dakshverma-19/Leetcode/tree/master/0397-integer-replacement) |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/dakshverma-19/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
 | [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dakshverma-19/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Impartial Game
@@ -496,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/dakshverma-19/Leetcode/tree/master/1395-count-number-of-teams) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
