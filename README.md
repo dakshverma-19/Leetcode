@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dakshverma-19/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dakshverma-19/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dakshverma-19/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/dakshverma-19/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dakshverma-19/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dakshverma-19/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/dakshverma-19/Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/dakshverma-19/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
