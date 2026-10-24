@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dakshverma-19/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dakshverma-19/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dakshverma-19/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/dakshverma-19/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/dakshverma-19/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/dakshverma-19/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dakshverma-19/Leetcode/tree/master/1025-divisor-game) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dakshverma-19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dakshverma-19/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/dakshverma-19/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/dakshverma-19/Leetcode/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/dakshverma-19/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshverma-19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dakshverma-19/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
