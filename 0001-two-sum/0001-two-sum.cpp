@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < n; i++) {
 
             for (int j = i + 1; j <n; j++) {
-                if (nums[i] + nums[j] == target ){
+                 if (nums[i] + nums[j] == target ){
                 ans.push_back(i);
                 ans.push_back(j);
                    
