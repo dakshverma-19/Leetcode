@@ -16,6 +16,6 @@ public:
          h =nums1.size()/2;
         
        }
-       return nums1[h];
+        return nums1[h];
     }
 };
