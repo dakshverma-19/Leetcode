@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int minChanges(string s) {
@@ -13,3 +12,4 @@ public:
         return count;
     }
 };
+
